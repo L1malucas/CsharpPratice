@@ -1,0 +1,14 @@
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.exe
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.deps.json
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.runtimeconfig.json
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.runtimeconfig.dev.json
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.dll
+C:\Users\ljesus\Desktop\IRT\C#Pratice\bin\Debug\netcoreapp3.1\C#Pratice.pdb
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.csproj.AssemblyReference.cache
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.AssemblyInfoInputs.cache
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.AssemblyInfo.cs
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.csproj.CoreCompileInputs.cache
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.dll
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.pdb
+C:\Users\ljesus\Desktop\IRT\C#Pratice\obj\Debug\netcoreapp3.1\C#Pratice.genruntimeconfig.cache
